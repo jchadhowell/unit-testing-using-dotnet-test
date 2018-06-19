@@ -1,0 +1,9 @@
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\bin\Debug\netstandard2.0\set.deps.json
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\bin\Debug\netstandard2.0\set.dll
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\bin\Debug\netstandard2.0\set.pdb
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\obj\Debug\netstandard2.0\set.csprojAssemblyReference.cache
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\obj\Debug\netstandard2.0\set.csproj.CoreCompileInputs.cache
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\obj\Debug\netstandard2.0\set.AssemblyInfoInputs.cache
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\obj\Debug\netstandard2.0\set.AssemblyInfo.cs
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\obj\Debug\netstandard2.0\set.dll
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set\obj\Debug\netstandard2.0\set.pdb

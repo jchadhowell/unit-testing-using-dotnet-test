@@ -1,0 +1,17 @@
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\set.tests.deps.json
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\set.tests.runtimeconfig.json
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\set.tests.runtimeconfig.dev.json
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\set.tests.dll
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\set.tests.pdb
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\set.dll
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\bin\Debug\netcoreapp2.1\set.pdb
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\obj\Debug\netcoreapp2.1\set.tests.csprojAssemblyReference.cache
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\obj\Debug\netcoreapp2.1\set.tests.csproj.CoreCompileInputs.cache
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\obj\Debug\netcoreapp2.1\set.tests.AssemblyInfoInputs.cache
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\obj\Debug\netcoreapp2.1\set.tests.AssemblyInfo.cs
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\obj\Debug\netcoreapp2.1\set.tests.csproj.CopyComplete
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\obj\Debug\netcoreapp2.1\set.tests.dll
+C:\Users\chowell\repos\unit-testing-using-dotnet-test\set.tests\obj\Debug\netcoreapp2.1\set.tests.pdb
